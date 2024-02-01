@@ -58,6 +58,10 @@ section {
   width: 200px;
   height: 150px;
   object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.container-1 img:hover {
+    transform: scale(1.1);
 }
 
 .container-1 p {
@@ -72,6 +76,10 @@ section {
   width: 200px;
   height: 150px;
   object-fit: cover;
+  transition: transform 0.3s ease;
+}
+.container-2 img:hover {
+    transform: scale(1.1);
 }
 
 .container-2 p {
