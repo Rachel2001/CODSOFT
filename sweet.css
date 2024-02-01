@@ -10,7 +10,7 @@ nav {
 }
 
 nav ul {
-  padding: 0;
+  padding: 20px;
   margin: 0;
 }
 
@@ -98,4 +98,10 @@ section {
     font-size: 16px;
     color: pink;
     background: purple;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
 }
